@@ -1,0 +1,13 @@
+node_modules
+.venv
+.env
+.wwebjs_auth
+.wwebjs_cache
+data.json
+database.sqlite
+voice_notes
+images
+audio
+files
+
+
